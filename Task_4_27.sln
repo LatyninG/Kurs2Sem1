@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_4_27", "Task_4_27\Task_4_27.csproj", "{B17B04CB-D4F2-42EF-9018-31EFD9783399}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawLogic", "DrawLogic\DrawLogic.csproj", "{E703C9EE-B643-4D1B-826B-268B40DDBBC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLogic", "BLogic\BLogic.csproj", "{3D869BD9-67FA-4F7A-9CF0-16AED7926725}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B17B04CB-D4F2-42EF-9018-31EFD9783399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B17B04CB-D4F2-42EF-9018-31EFD9783399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B17B04CB-D4F2-42EF-9018-31EFD9783399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B17B04CB-D4F2-42EF-9018-31EFD9783399}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E703C9EE-B643-4D1B-826B-268B40DDBBC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E703C9EE-B643-4D1B-826B-268B40DDBBC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E703C9EE-B643-4D1B-826B-268B40DDBBC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E703C9EE-B643-4D1B-826B-268B40DDBBC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D869BD9-67FA-4F7A-9CF0-16AED7926725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D869BD9-67FA-4F7A-9CF0-16AED7926725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D869BD9-67FA-4F7A-9CF0-16AED7926725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D869BD9-67FA-4F7A-9CF0-16AED7926725}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D0E81BA-7B51-49EB-B2B6-415B972DF2AB}
+	EndGlobalSection
+EndGlobal
